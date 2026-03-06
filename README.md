@@ -75,6 +75,4 @@ Limb activity analysis
 Recommended para sports list
 
 
-🎓 Academic Purpose
 
-This project was developed as part of a final year academic project focusing on AI, Computer Vision, and assistive technology for inclusive sports.
